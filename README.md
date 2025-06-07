@@ -2,9 +2,7 @@
 Este proyecto implementa técnicas de aprendizaje supervisado y no supervisado (PCA, LOF, DBSCAN, SVM, Random Forest y Redes Neuronales) para detectar anomalías y clasificar productos de inventario.
 # Tesis - Clasificación de Inventario
 
-Este proyecto implementa técnicas de aprendizaje supervisado y no supervisado (PCA, LOF, DBSCAN, SVM, Random Forest y Redes Neuronales) para detectar anomalías y clasificar productos de inventario.
-
-## Estructura del Proyecto
+Este proyecto implementa técnicas de aprendizaje supervisado y no supervisado
 - `data/`: Contiene los datasets utilizados.
 - `notebooks/`: Jupyter Notebooks con análisis exploratorio y modelos.
 - `src/`: Scripts de preprocesamiento, modelos y evaluaciones.
