@@ -1,5 +1,5 @@
 # TesisMaestriaCienciasdeDatos
-Este proyecto implementa técnicas de aprendizaje supervisado y no supervisado (PCA, LOF, DBSCAN, SVM, Random Forest y Redes Neuronales) para detectar anomalías y clasificar productos de inventario.
+Este proyecto implementa técnicas de aprendizaje supervisado y no supervisado 
 # Tesis - Clasificación de Inventario
 
 Este proyecto implementa técnicas de aprendizaje supervisado y no supervisado
