@@ -6,6 +6,8 @@ El objetivo fue desarrollar un modelo de clasificación de inventario basado en 
 ## Estructura
 1. Tratamiento de Datos
   [DATOS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/DATOS)
+2. Busqueda de hiperparámetros
+   [HIPERPARAMETROS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/HIPERPARAMETROS)
 
 ## Ejecución
 Clona el repositorio:
