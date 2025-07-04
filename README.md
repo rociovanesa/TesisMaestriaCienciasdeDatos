@@ -5,15 +5,15 @@ El objetivo fue desarrollar un modelo de clasificación de inventario basado en 
 
 ## Estructura
 1. Tratamiento de Datos
-  [DATOS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/DATOS)
+  [DATOS-LIMPIEZA-N-GRAMAS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/DATOS)
 2. Busqueda de hiperparámetros
    [HIPERPARAMETROS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/HIPERPARAMETROS)
 3. Modelos sin aplicación de SMOTE
    [MODELOS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/MODELOS)
-5. MOdelos con SMote y Cross Validation
+5. MOdelos con SMOTE y Cross Validation
    [MODELOS-SMOTE](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/MODELOS-SMOTE)
 6. Búsqueda de valores atípicos
-   [outliers](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/OUTLIERS)
+   [OUTLIERS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/OUTLIERS)
 8. Comparación de modelos a través de gráficos
    [COMPARACION](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/COMPARACION)
 10. Gráficos avanzados
