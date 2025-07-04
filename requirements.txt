@@ -1,36 +1,27 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import nltk
-from nltk.corpus import stopwords
-import pandas as pd
-import re
-import nltk
-from nltk.corpus import stopwords
-from nltk.util import ngrams
-from collections import Counter
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.preprocessing import LabelEncoder
-from sklearn.feature_extraction.text import TfidfVectorizer
+numpy 
+matplotlib.pyplot
+pandas
+nltk
+nltk.corpus import stopwords
+nltk.util
+ngrams
+sklearn
+LabelEncoder
+sklearn.feature_extraction.text
+TfidfVectorizer
+time
+seaborn
+train_test_split
+MultinomialNB
+LogisticRegression
+RandomForestClassifier
+XGBClassifier
+SVC
+KNeighborsClassifier
+classification_report, confusion_matrix, accuracy_score, f1_score
+GridSearchCV
+classification_report
+LocalOutlierFactor
+DBSCAN
+venn2
 
-import time
-import seaborn as sns
-
-from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from xgboost import XGBClassifier
-from sklearn.svm import SVC
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score, f1_score
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-from sklearn.model_selection import StratifiedKFold
-
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix, f1_score
-
-from sklearn.neighbors import LocalOutlierFactor
-from sklearn.cluster import DBSCAN
-from matplotlib_venn import venn2
