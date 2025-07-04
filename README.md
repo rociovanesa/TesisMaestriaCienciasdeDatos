@@ -4,6 +4,8 @@ El objetivo fue desarrollar un modelo de clasificación de inventario basado en 
 
 
 ## Estructura
+ Lo que se realizó en este proyecto fue aplicar técnicas de limpieza de datos, tokenización, n-gramas y técnicas de vectorización. Luego se buscaron los mejores hiperparámetros para 6 modelos de aprendizaje automático supervisado. Luego se aplicó balanceo y validación de modelos. También se buscaron datos atípicos y luego se compararon resultados.
+ Para ejecutar el proyecto se sugiere realizar el siguiente orden de ejecución.
 1. Tratamiento de Datos
   [DATOS-LIMPIEZA-N-GRAMAS](https://github.com/rociovanesa/TesisMaestriaCienciasdeDatos/tree/main/DATOS)
 2. Búsqueda de hiperparámetros
